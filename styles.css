@@ -11,3 +11,18 @@ h1 {
 li {
     color: rgb(0, 0, 0);
 }
+
+.nav {
+    background-color: rgba(197, 150, 122, 0.538);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.navlist {
+    display: inline-block;
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+}
